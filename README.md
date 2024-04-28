@@ -18,7 +18,7 @@
     <a href="https://lovealbum.netlify.app/">View Demo</a>
     <br />
     <br />
-    <p>Caution!: This site contains the an incredibly cute girl.<p>
+    <p>Caution!: This site contains the an incredibly cute girl... and some guy(who might be heads over heels on her... who cares, anyways.).<p>
     
   </p>
 </div>
