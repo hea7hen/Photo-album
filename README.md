@@ -18,6 +18,8 @@
     <a href="https://lovealbum.netlify.app/">View Demo</a>
     <br />
     <br />
+    <p>Caution!: This site contains the an incredibly cute girl.<p>
     
   </p>
 </div>
+
